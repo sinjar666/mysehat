@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="icons/allergen.xpm">search-engine/icons/allergen.xpm</file>
+        <file alias="icons/drug.xpm">search-engine/icons/drug.xpm</file>
+        <file alias="icons/family.xpm">search-engine/icons/family.xpm</file>
+        <file alias="icons/investigation.xpm">search-engine/icons/investigation.xpm</file>
+        <file alias="icons/misc.xpm">search-engine/icons/misc.xpm</file>
+        <file alias="icons/Search.png">search-engine/icons/Search.png</file>
+        <file alias="icons/surgery.xpm">search-engine/icons/surgery.xpm</file>
+        <file alias="icons/symptom.xpm">search-engine/icons/symptom.xpm</file>
+        <file alias="icons/appointment.jpg">adddetails/icons/appointment.jpg</file>
+        <file alias="words/noise">noise-words.csv</file>
+        <file alias="icons/vaccine.xpm">search-engine/icons/vaccine.xpm</file>
+        <file alias="icons/bigicon.jpg">about/icon-big.jpg</file>
+        <file alias="about/aboutpage.html">about/about.html</file>
+    </qresource>
+</RCC>
